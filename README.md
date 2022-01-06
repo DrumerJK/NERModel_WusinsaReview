@@ -7,7 +7,7 @@
 팀원 : 김준기 엄성현 이경진 이상화 임혜림 조민지 하은겸
 
 ![슬라이드0001](https://user-images.githubusercontent.com/92901381/148316178-6bf15c96-7308-485e-ae07-86edd53e53f1.jpg)
-![슬라이드0004](https://user-images.githubusercontent.com/92901381/148316236-e810524c-dea6-4c8e-aac0-cab623554e79.jpg)
+![슬라이드0004](https://user-images.githubusercontent.com/92901381/148358155-92e43691-de03-4343-9d75-0b05f6d5a334.jpg)
 ![슬라이드0005](https://user-images.githubusercontent.com/92901381/148316261-acbd6eb7-9e38-488c-8474-541d420dc92d.jpg)
 ![슬라이드0012](https://user-images.githubusercontent.com/92901381/148316604-f1373eb3-ab0d-4624-9d3c-33249533ce00.jpg)
 ![슬라이드0016](https://user-images.githubusercontent.com/92901381/148316762-485a2fa0-23f9-4b35-b54c-8c7261d941fb.jpg)
