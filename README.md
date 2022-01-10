@@ -11,9 +11,9 @@
 > 
 >엄성현 <tjdgus510@gmail.com>
 > 
->이경진 <>
+>이경진 <kungjin0119@naver.com>
 > 
->이상화 <>
+>이상화 <templas332@naver.com>
 > 
 >임혜림 <eim0801@naver.com>
 >
