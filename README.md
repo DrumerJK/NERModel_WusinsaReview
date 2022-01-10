@@ -1,4 +1,5 @@
-# NERModel_WusinsaReview
+# 우신사 리뷰 댓글 개체명 인식 모델
+# NERModel For WusinsaReview
 
 이 프로젝트는 K-Digital 빅데이터 과정 수강생 7명이 공동으로 작업한 프로젝트입니다.
 
